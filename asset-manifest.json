@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/crudPractice/static/css/main.7acaea2f.css",
-    "main.js": "/crudPractice/static/js/main.07d3183d.js",
+    "main.js": "/crudPractice/static/js/main.2c2f26ec.js",
     "index.html": "/crudPractice/index.html",
-    "main.7acaea2f.css.map": "/crudPractice/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/crudPractice/static/js/main.07d3183d.js.map"
+    "main.2c2f26ec.js.map": "/crudPractice/static/js/main.2c2f26ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.2c2f26ec.js"
   ]
 }
